@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikbalarslann
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity game engine
+- 👀 I’m learning mern stack 
+- 🌱 I’m currently working on node.js and backend 
 - 📫 ikbalarslan.com its my website feel free to text me :)
 
 <!---
