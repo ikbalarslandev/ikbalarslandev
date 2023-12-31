@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ikbal Arslan</h1>
+<h1 align="center"<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=61D9FA&center=true&width=450&lines=My+name+is+Ikbal+Arslan!;Front-end+engineer;Huge+Jhon+Wick+fan;I+love+cats...;...and+Swimming!" alt="Ikbal Arslan,Frontend Developper"></a>
+</div></h1>
 <h3 align="center">Junior Frontend Developper</h3>
 
 - 🎥 I’m currently building: **Cv builder Web App**
