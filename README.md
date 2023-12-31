@@ -13,7 +13,7 @@
       <a href="https://www.linkedin.com/in/muhammed-ikbal-arslan-674656202/">
         <img src="https://img.shields.io/badge/%20-ikbalarslan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
     </a>
-<a href="[https://ikbalarslan.com](https://www.upwork.com/freelancers/~016032ab85ea7a24c3)">
+<a href="https://www.upwork.com/freelancers/~016032ab85ea7a24c3">
     <img src="https://img.shields.io/badge/%20-upwork.com-black?color=14171A&labelColor=108a00&logo=upwork&logoColor=ffffff" />
 </a>
        <a href="mailto:ikbalarslangamedesigner@gmail.com">
