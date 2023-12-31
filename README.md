@@ -1,25 +1,49 @@
-<h1 align="center"<div align="center">
+<div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=61D9FA&center=true&width=450&lines=My+name+is+Ikbal+Arslan!;Front-end+engineer;Huge+Jhon+Wick+fan;I+love+cats...;...and+Swimming!" alt="Ikbal Arslan,Frontend Developper"></a>
-</div></h1>
-<h3 align="center">Junior Frontend Developper</h3>
+</div>
 
-- 🎥 I’m currently building: **Cv builder Web App**
 
-- 🌱 I’m currently learning: **React**
-
-- 🎥 I’m building next: **No Idea LOL**
-
-- 🤝 I’m looking for Open Source Projects.
-
-- 💬 Ask me about **Git, React, Redux, Css, JS**
-
-<p align="left">
+<p align="center" ">
+    <a href="https://ikbalarslan.com">
+        <img src="https://img.shields.io/badge/%20-ikbalarslan.com-black?color=14171A&labelColor=1dbaba&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=" />
+    </a>
+      <a href="https://ikbalarslan.com">
+        <img src="https://img.shields.io/badge/%20-ikbalarslan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
+    </a>
+     <a href="https://ikbalarslan.com">
+        <img src="https://img.shields.io/badge/%20-@ikbalarslan-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
+    </a>
+     <a href="https://ikbalarslan.com">
+        <img src="https://img.shields.io/badge/%20-ikbalarslan@gmail.com-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=ffffff" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-  </p>
+<details><summary><b>My GitHub Stats, Streak and Languages</b></summary>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikbalarslann&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=ikbalarslann&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Ikbal's GitHub streak stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikbalarslann&layout=compact" alt="Top Languages" /></p>
+
+
+</details>
+
+<details><summary><b>My GitHub Trophy Collection</b></summary>
+
+<p align="center">
+<img alig src="https://github-profile-trophy.vercel.app/?username=ikbalarslann&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
+</p>
+
+</details>
+
+<details><summary><b>Languages and Tools I've Used</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,sass,mongodb,git,github,vim,vscode&perline=7" />
+</p>
+<br><br>
+
+</details>
