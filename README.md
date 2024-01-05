@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/my_octocat.png" alt="My octocat" />
+    <img src="https://github.com/ikbalarslann/ikbalarslann/blob/main/my_octocat.png" alt="My octocat" />
 </p>
 
 <p align="center" ">
