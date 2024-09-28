@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=61D9FA&center=true&width=450&lines=My+name+is+Ikbal+Arslan!;Front-end+engineer;Huge+Jhon+Wick+fan;I+love+cats...;...and+Swimming!" alt="Ikbal Arslan,Frontend Developper"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&size=36&duration=4500&color=61D9FA&center=true&width=450&lines=My+name+is+Ikbal+Arslan!;Javascript+developer;Huge+Jhon+Wick+fan;I+love+cats...;...and+Swimming!" alt="Ikbal Arslan,Frontend Developper"></a>
 </div>
 
 <p align="center">
