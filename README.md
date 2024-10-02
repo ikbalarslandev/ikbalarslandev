@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/ikbalarslann/ikbalarslann/blob/main/my_octocat.png" alt="My octocat" />
+    <img src="https://github.com/ikbalarslandev/ikbalarslandev/blob/main/my_octocat.png" alt="My octocat" />
 </p>
 
 <p align="center" ">
@@ -25,11 +25,11 @@
 
 <details><summary><b>My GitHub Stats, Streak and Languages</b></summary>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikbalarslann&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ikbalarslandev&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=ikbalarslann&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Ikbal's GitHub streak stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=ikbalarslandev&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Ikbal's GitHub streak stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikbalarslann&layout=compact" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikbalarslandev&layout=compact" alt="Top Languages" /></p>
 
 
 </details>
@@ -37,7 +37,7 @@
 <details><summary><b>My GitHub Trophy Collection</b></summary>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=ikbalarslann&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=ikbalarslandev&margin-w=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
 
 </details>
